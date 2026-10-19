@@ -58,9 +58,11 @@ The comparison illustrates how a linear duration-based approximation can differ 
 
 ## Data Source
 
-US Department of the Treasury — Daily Treasury Par Yield Curve Rates:
+The dataset is published by the U.S. Department of the Treasury. The Data.gov catalogue lists the Daily Treasury Yield Curve Rates dataset under the CC0 1.0 public-domain dedication.
 
-https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?page=0&type=daily_treasury_yield_curve
+Source: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?page=0&type=daily_treasury_yield_curve
+
+Dataset metadata: https://catalog.data.gov/dataset/interest-rate-statistics-daily-treasury-yield-curve-rates
 
 ## How to Use
 
